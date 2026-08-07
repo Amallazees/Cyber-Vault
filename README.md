@@ -17,39 +17,27 @@ Access the full Cyber Assistant Vault instantly in your browser:
 
 ---
 
-## 💻 Download & Install as Desktop Software on PC
+## 💻 Download & Install PC Software
 
-Run Cyber Assistant Vault directly on your Windows PC like a standalone software app.
+Download the setup installer, double-click to install, and run Cyber Assistant Vault on your PC like any standard software.
 
 ### 🔑 Key Feature: **One-Time Login Only**
-Once installed, you only log in **ONCE** with your Gmail account. The app saves your login session safely on your PC, so you never have to log in again!
+Once installed, you only log in **ONCE** with your Gmail account. Your login session is saved permanently on your PC so you never have to log in again!
 
 ---
 
-### 📥 Step-by-Step Installation Guide
+### 📥 How to Download & Install (1-Click)
 
-#### Option 1: 1-Click Desktop Shortcut Script (Fastest)
+1. **Download Setup Installer**
+   - Click to download: 👉 **[Download CyberAssistantVault-Setup.cmd](https://github.com/Amallazees/Cyber-Vault/raw/main/CyberAssistantVault-Setup.cmd)**
 
-1. **Download the Repository**
-   - Click the green **`Code`** button at the top right of this GitHub page.
-   - Click **`Download ZIP`** and extract the ZIP file on your PC.
+2. **Double-Click to Install**
+   - Open your Downloads folder and double-click `CyberAssistantVault-Setup.cmd`.
+   - The installer will set up the app and create a **Cyber Assistant Vault** icon on your Desktop.
 
-2. **Run the Installer**
-   - Open the extracted folder.
-   - Right-click `Install-CyberVault.ps1` and select **`Run with PowerShell`** (or double-click `CyberAssistantVault.bat`).
-
-3. **Launch from Desktop**
-   - A **Cyber Assistant Vault** shortcut icon will appear on your Desktop.
-   - Double-click the desktop icon to open Cyber Vault as standalone PC software!
-
----
-
-#### Option 2: Install via Browser PWA
-
-1. Open **[https://www.amall.site/tools](https://www.amall.site/tools)** in **Google Chrome** or **Microsoft Edge**.
-2. Log in **ONCE** with your Gmail account.
-3. Click the **Install Icon** in the top-right corner of your browser's address bar (or click **Menu `⋮`** -> **Save and Share** -> **Install Cyber Assistant Vault**).
-4. Click **Install**. A desktop app shortcut will be created automatically.
+3. **Launch & Enjoy**
+   - Double-click the **Cyber Assistant Vault** desktop shortcut to open the software.
+   - Log in **ONCE** with Gmail to access 1000+ tools in a single window!
 
 ---
 
