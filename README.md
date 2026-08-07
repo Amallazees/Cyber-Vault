@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Cyber Assistant Vault Cover Banner" width="250" style="border-radius: 8px;" />
+  <img src="assets/banner.png" alt="Cyber Assistant Vault Banner" width="400" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
