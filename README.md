@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Cyber Assistant Vault Banner" width="100%" />
-</p>
+<h1 align="center"><b>CYBER ASSISTANT VAULT</b></h1>
+<p align="center"><sub><b>MADE BY AMALL.</b></sub></p>
 
 <p align="center">
   <a href="https://www.amall.site/tools">
