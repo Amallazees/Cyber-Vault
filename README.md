@@ -66,5 +66,5 @@ written permission from AMALL.
 
 <p align="center">
   <b>Developed by AMALL</b><br>
-  🌐 <a href="https://www.amall.site/tools">www.amall.site/tools</a>
+  🌐 <a href="https://www.amall.site">www.amall.site</a>
 </p>
