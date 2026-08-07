@@ -1,14 +1,8 @@
 <h1 align="center"><b>CYBER ASSISTANT VAULT</b></h1>
 <p align="center"><sub><b>MADE BY AMALL.</b></sub></p>
 
-<p align="center">
-  <a href="https://www.amall.site/tools">
-    <img src="https://img.shields.io/badge/Web_App-amall.site%2Ftools-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web App" />
-  </a>
-  <img src="https://img.shields.io/badge/Tools-1000%2B-blueviolet?style=for-the-badge&logo=shield" alt="1000+ Tools" />
-  <img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge" alt="All Rights Reserved" />
-  <img src="https://img.shields.io/badge/Platform-Windows_|_Web-blue?style=for-the-badge&logo=windows" alt="Windows Platform" />
-</p>
+<p align="center"><b>Ultimate Security Tools Collection & Resource Hub</b></p>
+<p align="center"><sub>1000+ Tools across 18 Categories</sub></p>
 
 ---
 
