@@ -33,7 +33,7 @@ Once installed, you only log in **ONCE** with your Gmail account. The app saves 
 
 ---
 
-### 📥 Step-by-Step Installation Guide (Simple English)
+### 📥 Step-by-Step Installation Guide
 
 #### Option 1: 1-Click Desktop Shortcut Script (Fastest)
 
