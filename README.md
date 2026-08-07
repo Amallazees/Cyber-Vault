@@ -1,4 +1,4 @@
-<h1 align="center"><b>CYBER ASSISTANT VAULT</b></h1>
+<h1 align="center" style="font-weight: 900; font-size: 2.5em;"><b><strong>CYBER ASSISTANT VAULT</strong></b></h1>
 <p align="center"><sub><b>MADE BY AMALL.</b></sub></p>
 
 <p align="center"><b>Ultimate Security Tools Collection & Resource Hub</b></p>
